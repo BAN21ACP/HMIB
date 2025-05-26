@@ -16,6 +16,7 @@
   <content>Catalog.ВидыГрафиковРаботы</content>
   <content>InformationRegister.ГрафикиРаботы</content>
   <content>CalculationRegister.Начисления</content>
+  <content>Document.НачисленияСотрудникам</content>
   <content>Report.Перерасчет</content>
   <content>Report.НачисленияСотрудникам</content>
   <content>Report.ДиаграммаНачислений</content>
